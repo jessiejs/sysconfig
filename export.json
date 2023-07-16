@@ -92,6 +92,13 @@
             "Source": "anderlli0053_DEV-tools"
         },
         {
+            "Updated": "2023-07-16T14:36:40.0376499-07:00",
+            "Name": "gradle",
+            "Info": "",
+            "Version": "8.2",
+            "Source": "anderlli0053_DEV-tools"
+        },
+        {
             "Updated": "2023-05-12T11:23:23.2799334-07:00",
             "Name": "gut",
             "Info": "",
@@ -146,6 +153,13 @@
             "Info": "",
             "Version": "20.4.0",
             "Source": "anderlli0053_DEV-tools"
+        },
+        {
+            "Updated": "2023-07-16T14:35:33.452614-07:00",
+            "Name": "openjdk",
+            "Info": "",
+            "Version": "20.0.1-9",
+            "Source": "java"
         },
         {
             "Updated": "2022-10-27T12:18:58.2965027-07:00",
@@ -272,6 +286,16 @@
                 "DateTime": "Sunday, June 25, 2023 5:51:47 AM"
             },
             "Manifests": 0
+        },
+        {
+            "Name": "java",
+            "Source": "https://github.com/ScoopInstaller/Java",
+            "Updated": {
+                "value": "2023-07-16T09:18:50-07:00",
+                "DisplayHint": 2,
+                "DateTime": "Sunday, July 16, 2023 9:18:50 AM"
+            },
+            "Manifests": 253
         },
         {
             "Name": "lzwme_scoop-proxy-cn",
