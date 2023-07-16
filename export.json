@@ -204,11 +204,25 @@
             "Info": "Install failed"
         },
         {
+            "Updated": "2023-07-16T08:48:25.3548806-07:00",
+            "Source": "extras",
+            "Name": "turbowarp",
+            "Version": "1.8.1",
+            "Info": ""
+        },
+        {
             "Updated": "2023-04-04T08:40:11.7499565-07:00",
             "Source": "anderlli0053_DEV-tools",
             "Name": "unzip",
             "Version": "6.00",
             "Info": ""
+        },
+        {
+            "Updated": "2023-07-16T08:17:11.6154683-07:00",
+            "Source": null,
+            "Name": "visual-studio-2022-nativedesktop",
+            "Version": null,
+            "Info": "Install failed"
         }
     ],
     "buckets": [
@@ -236,11 +250,11 @@
             "Name": "extras",
             "Source": "https://github.com/jessiejs/extras",
             "Updated": {
-                "value": "2023-07-16T07:15:38-07:00",
+                "value": "2023-07-16T08:48:09-07:00",
                 "DisplayHint": 2,
-                "DateTime": "Sunday, July 16, 2023 7:15:38 AM"
+                "DateTime": "Sunday, July 16, 2023 8:48:09 AM"
             },
-            "Manifests": 1884
+            "Manifests": 1885
         },
         {
             "Name": "gut",
@@ -251,6 +265,16 @@
                 "DateTime": "Sunday, June 25, 2023 5:51:47 AM"
             },
             "Manifests": 0
+        },
+        {
+            "Name": "lzwme_scoop-proxy-cn",
+            "Source": "https://github.com/lzwme/scoop-proxy-cn",
+            "Updated": {
+                "value": "2023-07-15T19:20:38-07:00",
+                "DisplayHint": 2,
+                "DateTime": "Saturday, July 15, 2023 7:20:38 PM"
+            },
+            "Manifests": 42584
         },
         {
             "Name": "main",
