@@ -148,13 +148,6 @@
             "Info": ""
         },
         {
-            "Updated": "2023-07-16T07:16:19.6168452-07:00",
-            "Source": "extras",
-            "Name": "opera",
-            "Version": "100.0.4815.54",
-            "Info": ""
-        },
-        {
             "Updated": "2022-10-27T12:18:58.2965027-07:00",
             "Source": "main",
             "Name": "optipng",
@@ -180,13 +173,6 @@
             "Source": "main",
             "Name": "qemu",
             "Version": "7.1.0",
-            "Info": ""
-        },
-        {
-            "Updated": "2023-06-08T19:36:51.5128121-07:00",
-            "Source": "anderlli0053_DEV-tools",
-            "Name": "rust",
-            "Version": "1.70.0",
             "Info": ""
         },
         {
