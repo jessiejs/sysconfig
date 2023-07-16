@@ -1,248 +1,262 @@
 {
     "apps": [
         {
-            "Updated": "2022-10-14T18:48:31.8755408-07:00",
             "Name": "7zip",
-            "Info": "",
             "Version": "22.01",
+            "Updated": "2022-10-14T18:48:31.8755408-07:00",
+            "Info": "",
             "Source": "main"
         },
         {
-            "Updated": "2022-09-18T14:21:27.8056683-07:00",
             "Name": "apache",
-            "Info": "",
             "Version": "2.4.54",
+            "Updated": "2022-09-18T14:21:27.8056683-07:00",
+            "Info": "",
             "Source": "main"
         },
         {
-            "Updated": "2023-07-14T12:07:18.3518224-07:00",
             "Name": "brave",
-            "Info": "",
             "Version": "1.52.130",
+            "Updated": "2023-07-14T12:07:18.3518224-07:00",
+            "Info": "",
             "Source": "extras"
         },
         {
-            "Updated": "2023-07-14T12:06:15.5237688-07:00",
             "Name": "brave-beta",
-            "Info": "Install failed",
             "Version": null,
+            "Updated": "2023-07-14T12:06:15.5237688-07:00",
+            "Info": "Install failed",
             "Source": null
         },
         {
-            "Updated": "2023-05-27T13:19:52.6147668-07:00",
             "Name": "btop",
-            "Info": "",
             "Version": "1.0.4",
+            "Updated": "2023-05-27T13:19:52.6147668-07:00",
+            "Info": "",
             "Source": "anderlli0053_DEV-tools"
         },
         {
-            "Updated": "2022-10-27T12:54:34.6466227-07:00",
             "Name": "cmake",
-            "Info": "",
             "Version": "3.24.2",
+            "Updated": "2022-10-27T12:54:34.6466227-07:00",
+            "Info": "",
             "Source": "main"
         },
         {
-            "Updated": "2022-08-24T17:10:20.7466922-07:00",
             "Name": "cowsay",
-            "Info": "",
             "Version": "0.2013.07.19",
+            "Updated": "2022-08-24T17:10:20.7466922-07:00",
+            "Info": "",
             "Source": "main"
         },
         {
-            "Updated": "2023-07-15T13:41:51.0360252-07:00",
             "Name": "docker",
-            "Info": "",
             "Version": "24.0.4",
+            "Updated": "2023-07-15T13:41:51.0360252-07:00",
+            "Info": "",
             "Source": "anderlli0053_DEV-tools"
         },
         {
-            "Updated": "2022-10-14T18:48:24.2601877-07:00",
             "Name": "elixir",
-            "Info": "",
             "Version": "1.14.1",
+            "Updated": "2022-10-14T18:48:24.2601877-07:00",
+            "Info": "",
             "Source": "main"
         },
         {
-            "Updated": "2023-07-14T12:09:32.6994308-07:00",
             "Name": "figma",
-            "Info": "",
             "Version": "116.10.9",
+            "Updated": "2023-07-14T12:09:32.6994308-07:00",
+            "Info": "",
             "Source": "extras"
         },
         {
-            "Updated": "2023-07-14T12:09:05.8587219-07:00",
             "Name": "firefox",
-            "Info": "",
             "Version": "115.0.2",
+            "Updated": "2023-07-14T12:09:05.8587219-07:00",
+            "Info": "",
             "Source": "extras"
         },
         {
-            "Updated": "2022-10-27T12:50:53.7526489-07:00",
             "Name": "gcc",
-            "Info": "",
             "Version": "11.2.0",
+            "Updated": "2022-10-27T12:50:53.7526489-07:00",
+            "Info": "",
             "Source": "main"
         },
         {
-            "Updated": "2022-12-15T11:24:50.8394405-08:00",
             "Name": "gh",
-            "Info": "",
             "Version": "2.20.2",
+            "Updated": "2022-12-15T11:24:50.8394405-08:00",
+            "Info": "",
             "Source": "anderlli0053_DEV-tools"
         },
         {
-            "Updated": "2023-07-16T14:36:40.0376499-07:00",
             "Name": "gradle",
-            "Info": "",
             "Version": "8.2",
+            "Updated": "2023-07-16T14:36:40.0376499-07:00",
+            "Info": "",
             "Source": "anderlli0053_DEV-tools"
         },
         {
-            "Updated": "2023-05-12T11:23:23.2799334-07:00",
             "Name": "gut",
-            "Info": "",
             "Version": "0.2.8",
+            "Updated": "2023-05-12T11:23:23.2799334-07:00",
+            "Info": "",
             "Source": "gut"
         },
         {
-            "Updated": "2022-10-06T13:19:48.3224021-07:00",
             "Name": "lame",
-            "Info": "",
             "Version": "3.100.1",
+            "Updated": "2022-10-06T13:19:48.3224021-07:00",
+            "Info": "",
             "Source": "main"
         },
         {
-            "Updated": "2022-09-17T21:16:49.9479163-07:00",
             "Name": "lazygit",
-            "Info": "",
             "Version": "0.35",
+            "Updated": "2022-09-17T21:16:49.9479163-07:00",
+            "Info": "",
             "Source": "extras"
         },
         {
-            "Updated": "2022-10-27T12:53:26.4674141-07:00",
             "Name": "mingw-winlibs-llvm",
-            "Info": "",
             "Version": "12.2.0-14.0.6-10.0.0-r2",
+            "Updated": "2022-10-27T12:53:26.4674141-07:00",
+            "Info": "",
             "Source": "versions"
         },
         {
-            "Updated": "2022-10-27T13:29:25.1133723-07:00",
             "Name": "msvc",
-            "Info": "Install failed",
             "Version": null,
+            "Updated": "2022-10-27T13:29:25.1133723-07:00",
+            "Info": "Install failed",
             "Source": null
         },
         {
-            "Updated": "2022-08-24T17:08:23.8098024-07:00",
             "Name": "neofetch",
-            "Info": "",
             "Version": "7.1.0",
+            "Updated": "2022-08-24T17:08:23.8098024-07:00",
+            "Info": "",
             "Source": "main"
         },
         {
-            "Updated": "2022-10-27T12:51:03.8948302-07:00",
             "Name": "ninja",
-            "Info": "",
             "Version": "1.11.1",
+            "Updated": "2022-10-27T12:51:03.8948302-07:00",
+            "Info": "",
             "Source": "main"
         },
         {
-            "Updated": "2023-07-14T12:05:22.154032-07:00",
             "Name": "nodejs",
-            "Info": "",
             "Version": "20.4.0",
+            "Updated": "2023-07-14T12:05:22.154032-07:00",
+            "Info": "",
             "Source": "anderlli0053_DEV-tools"
         },
         {
-            "Updated": "2023-07-16T14:35:33.452614-07:00",
             "Name": "openjdk",
-            "Info": "",
             "Version": "20.0.1-9",
+            "Updated": "2023-07-16T14:35:33.452614-07:00",
+            "Info": "",
             "Source": "java"
         },
         {
-            "Updated": "2022-10-27T12:18:58.2965027-07:00",
+            "Name": "openjdk17",
+            "Version": "17.0.2-8",
+            "Updated": "2023-07-16T14:42:18.5638919-07:00",
+            "Info": "",
+            "Source": "java"
+        },
+        {
+            "Name": "openjdk8-redhat",
+            "Version": "8u342-b07",
+            "Updated": "2023-07-16T14:42:10.06234-07:00",
+            "Info": "",
+            "Source": "java"
+        },
+        {
             "Name": "optipng",
-            "Info": "",
             "Version": "0.7.7",
+            "Updated": "2022-10-27T12:18:58.2965027-07:00",
+            "Info": "",
             "Source": "main"
         },
         {
-            "Updated": "2022-09-18T14:16:06.4500439-07:00",
             "Name": "php",
-            "Info": "",
             "Version": "8.1.10",
+            "Updated": "2022-09-18T14:16:06.4500439-07:00",
+            "Info": "",
             "Source": "main"
         },
         {
-            "Updated": "2023-07-15T13:46:19.1577711-07:00",
             "Name": "protoc",
-            "Info": "",
             "Version": "23.4",
+            "Updated": "2023-07-15T13:46:19.1577711-07:00",
+            "Info": "",
             "Source": "anderlli0053_DEV-tools"
         },
         {
-            "Updated": "2022-10-27T12:54:00.3207767-07:00",
             "Name": "qemu",
-            "Info": "",
             "Version": "7.1.0",
+            "Updated": "2022-10-27T12:54:00.3207767-07:00",
+            "Info": "",
             "Source": "main"
         },
         {
-            "Updated": "2023-07-16T14:24:27.9374105-07:00",
             "Name": "rust",
-            "Info": "",
             "Version": "1.70.0",
+            "Updated": "2023-07-16T14:24:27.9374105-07:00",
+            "Info": "",
             "Source": "anderlli0053_DEV-tools"
         },
         {
-            "Updated": "2023-07-13T14:54:52.3033989-07:00",
             "Name": "rustup",
-            "Info": "",
             "Version": "1.26.0",
+            "Updated": "2023-07-13T14:54:52.3033989-07:00",
+            "Info": "",
             "Source": "anderlli0053_DEV-tools"
         },
         {
-            "Updated": "2022-10-27T13:26:59.2478032-07:00",
             "Name": "sdl2",
-            "Info": "",
             "Version": "2.24.1",
+            "Updated": "2022-10-27T13:26:59.2478032-07:00",
+            "Info": "",
             "Source": "extras"
         },
         {
-            "Updated": "2022-10-27T12:55:34.8796656-07:00",
             "Name": "sudo",
-            "Info": "",
             "Version": "0.2020.01.26",
+            "Updated": "2022-10-27T12:55:34.8796656-07:00",
+            "Info": "",
             "Source": "main"
         },
         {
-            "Updated": "2022-11-25T12:46:45.0986666-08:00",
             "Name": "tor",
-            "Info": "Install failed",
             "Version": null,
+            "Updated": "2022-11-25T12:46:45.0986666-08:00",
+            "Info": "Install failed",
             "Source": null
         },
         {
-            "Updated": "2023-07-16T08:48:25.3548806-07:00",
             "Name": "turbowarp",
-            "Info": "",
             "Version": "1.8.1",
+            "Updated": "2023-07-16T08:48:25.3548806-07:00",
+            "Info": "",
             "Source": "extras"
         },
         {
-            "Updated": "2023-04-04T08:40:11.7499565-07:00",
             "Name": "unzip",
-            "Info": "",
             "Version": "6.00",
+            "Updated": "2023-04-04T08:40:11.7499565-07:00",
+            "Info": "",
             "Source": "anderlli0053_DEV-tools"
         },
         {
-            "Updated": "2023-07-16T08:17:11.6154683-07:00",
             "Name": "visual-studio-2022-nativedesktop",
-            "Info": "Install failed",
             "Version": null,
+            "Updated": "2023-07-16T08:17:11.6154683-07:00",
+            "Info": "Install failed",
             "Source": null
         }
     ],
