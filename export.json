@@ -1,333 +1,340 @@
 {
     "apps": [
         {
-            "Updated": "2022-10-14T18:48:31.8755408-07:00",
+            "Info": "",
             "Version": "22.01",
-            "Info": "",
+            "Source": "main",
             "Name": "7zip",
-            "Source": "main"
+            "Updated": "2022-10-14T18:48:31.8755408-07:00"
         },
         {
-            "Updated": "2022-09-18T14:21:27.8056683-07:00",
+            "Info": "",
             "Version": "2.4.54",
-            "Info": "",
+            "Source": "main",
             "Name": "apache",
-            "Source": "main"
+            "Updated": "2022-09-18T14:21:27.8056683-07:00"
         },
         {
-            "Updated": "2023-07-21T07:39:42.2665881-07:00",
+            "Info": "",
             "Version": "3.4.29.0",
-            "Info": "",
+            "Source": "anderlli0053_DEV-tools",
             "Name": "atlauncher",
-            "Source": "anderlli0053_DEV-tools"
+            "Updated": "2023-07-21T07:39:42.2665881-07:00"
         },
         {
-            "Updated": "2023-07-19T19:09:00.9113612-07:00",
+            "Info": "",
             "Version": "2.0.4",
-            "Info": "",
+            "Source": "anderlli0053_DEV-tools",
             "Name": "autohotkey",
-            "Source": "anderlli0053_DEV-tools"
+            "Updated": "2023-07-19T19:09:00.9113612-07:00"
         },
         {
-            "Updated": "2023-07-29T15:48:41.8061631-07:00",
+            "Info": "",
             "Version": "4.7.4",
-            "Info": "",
+            "Source": "anderlli0053_DEV-tools",
             "Name": "blockbench",
-            "Source": "anderlli0053_DEV-tools"
+            "Updated": "2023-07-29T15:48:41.8061631-07:00"
         },
         {
-            "Updated": "2023-07-14T12:07:18.3518224-07:00",
-            "Version": "1.52.130",
-            "Info": "",
-            "Name": "brave",
-            "Source": "extras"
-        },
-        {
-            "Updated": "2023-07-14T12:06:15.5237688-07:00",
-            "Version": null,
             "Info": "Install failed",
+            "Version": null,
+            "Source": null,
             "Name": "brave-beta",
-            "Source": null
+            "Updated": "2023-07-14T12:06:15.5237688-07:00"
         },
         {
-            "Updated": "2023-05-27T13:19:52.6147668-07:00",
+            "Info": "",
             "Version": "1.0.4",
-            "Info": "",
+            "Source": "anderlli0053_DEV-tools",
             "Name": "btop",
-            "Source": "anderlli0053_DEV-tools"
+            "Updated": "2023-05-27T13:19:52.6147668-07:00"
         },
         {
-            "Updated": "2022-10-27T12:54:34.6466227-07:00",
+            "Info": "",
             "Version": "3.24.2",
-            "Info": "",
+            "Source": "main",
             "Name": "cmake",
-            "Source": "main"
+            "Updated": "2022-10-27T12:54:34.6466227-07:00"
         },
         {
-            "Updated": "2022-08-24T17:10:20.7466922-07:00",
+            "Info": "",
             "Version": "0.2013.07.19",
-            "Info": "",
+            "Source": "main",
             "Name": "cowsay",
-            "Source": "main"
+            "Updated": "2022-08-24T17:10:20.7466922-07:00"
         },
         {
-            "Updated": "2023-07-15T13:41:51.0360252-07:00",
+            "Info": "",
+            "Version": "6.4.0",
+            "Source": "anderlli0053_DEV-tools",
+            "Name": "dnspyex",
+            "Updated": "2023-08-03T11:00:48.3275196-07:00"
+        },
+        {
+            "Info": "",
             "Version": "24.0.4",
-            "Info": "",
+            "Source": "anderlli0053_DEV-tools",
             "Name": "docker",
-            "Source": "anderlli0053_DEV-tools"
+            "Updated": "2023-07-15T13:41:51.0360252-07:00"
         },
         {
-            "Updated": "2023-07-30T17:45:22.5176656-07:00",
+            "Info": "",
             "Version": "1065",
-            "Info": "",
+            "Source": "versions",
             "Name": "dolphin-nightly",
-            "Source": "versions"
+            "Updated": "2023-07-30T17:45:22.5176656-07:00"
         },
         {
-            "Updated": "2022-10-14T18:48:24.2601877-07:00",
+            "Info": "",
             "Version": "1.14.1",
-            "Info": "",
+            "Source": "main",
             "Name": "elixir",
-            "Source": "main"
+            "Updated": "2022-10-14T18:48:24.2601877-07:00"
         },
         {
-            "Updated": "2023-07-30T17:28:49.9345997-07:00",
+            "Info": "",
             "Version": "6.0",
-            "Info": "",
+            "Source": "anderlli0053_DEV-tools",
             "Name": "ffmpeg",
-            "Source": "anderlli0053_DEV-tools"
+            "Updated": "2023-07-30T17:28:49.9345997-07:00"
         },
         {
-            "Updated": "2023-07-14T12:09:32.6994308-07:00",
+            "Info": "",
             "Version": "116.10.9",
-            "Info": "",
+            "Source": "extras",
             "Name": "figma",
-            "Source": "extras"
+            "Updated": "2023-07-14T12:09:32.6994308-07:00"
         },
         {
-            "Updated": "2023-07-14T12:09:05.8587219-07:00",
+            "Info": "",
             "Version": "115.0.2",
-            "Info": "",
+            "Source": null,
             "Name": "firefox",
-            "Source": "extras"
+            "Updated": "2023-08-03T10:24:04.366406-07:00"
         },
         {
-            "Updated": "2023-07-20T09:58:27.3192213-07:00",
+            "Info": "",
             "Version": "116.0b2",
-            "Info": "",
+            "Source": null,
             "Name": "firefox-developer",
-            "Source": null
+            "Updated": "2023-07-20T09:58:27.3192213-07:00"
         },
         {
-            "Updated": "2022-10-27T12:50:53.7526489-07:00",
+            "Info": "",
             "Version": "11.2.0",
-            "Info": "",
+            "Source": "main",
             "Name": "gcc",
-            "Source": "main"
+            "Updated": "2022-10-27T12:50:53.7526489-07:00"
         },
         {
-            "Updated": "2022-12-15T11:24:50.8394405-08:00",
+            "Info": "",
             "Version": "2.20.2",
-            "Info": "",
+            "Source": "anderlli0053_DEV-tools",
             "Name": "gh",
-            "Source": "anderlli0053_DEV-tools"
+            "Updated": "2022-12-15T11:24:50.8394405-08:00"
         },
         {
-            "Updated": "2023-07-19T15:10:03.311377-07:00",
+            "Info": "",
             "Version": "2.10.34",
-            "Info": "",
+            "Source": "anderlli0053_DEV-tools",
             "Name": "gimp",
-            "Source": "anderlli0053_DEV-tools"
+            "Updated": "2023-07-19T15:10:03.311377-07:00"
         },
         {
-            "Updated": "2023-07-16T14:36:40.0376499-07:00",
+            "Info": "",
             "Version": "8.2",
-            "Info": "",
+            "Source": "anderlli0053_DEV-tools",
             "Name": "gradle",
-            "Source": "anderlli0053_DEV-tools"
+            "Updated": "2023-07-16T14:36:40.0376499-07:00"
         },
         {
-            "Updated": "2023-05-12T11:23:23.2799334-07:00",
+            "Info": "",
             "Version": "0.2.8",
-            "Info": "",
+            "Source": "gut",
             "Name": "gut",
-            "Source": "gut"
+            "Updated": "2023-05-12T11:23:23.2799334-07:00"
         },
         {
-            "Updated": "2023-07-19T15:09:00.5680273-07:00",
+            "Info": "",
             "Version": "0.50",
-            "Info": "",
+            "Source": "anderlli0053_DEV-tools",
             "Name": "innounp",
-            "Source": "anderlli0053_DEV-tools"
+            "Updated": "2023-07-19T15:09:00.5680273-07:00"
         },
         {
-            "Updated": "2022-10-06T13:19:48.3224021-07:00",
+            "Info": "",
             "Version": "3.100.1",
-            "Info": "",
+            "Source": "main",
             "Name": "lame",
-            "Source": "main"
+            "Updated": "2022-10-06T13:19:48.3224021-07:00"
         },
         {
-            "Updated": "2022-09-17T21:16:49.9479163-07:00",
+            "Info": "",
             "Version": "0.35",
-            "Info": "",
+            "Source": "extras",
             "Name": "lazygit",
-            "Source": "extras"
+            "Updated": "2022-09-17T21:16:49.9479163-07:00"
         },
         {
-            "Updated": "2022-10-27T12:53:26.4674141-07:00",
+            "Info": "",
             "Version": "12.2.0-14.0.6-10.0.0-r2",
-            "Info": "",
+            "Source": "versions",
             "Name": "mingw-winlibs-llvm",
-            "Source": "versions"
+            "Updated": "2022-10-27T12:53:26.4674141-07:00"
         },
         {
-            "Updated": "2022-10-27T13:29:25.1133723-07:00",
-            "Version": null,
             "Info": "Install failed",
+            "Version": null,
+            "Source": null,
             "Name": "msvc",
-            "Source": null
+            "Updated": "2022-10-27T13:29:25.1133723-07:00"
         },
         {
-            "Updated": "2022-08-24T17:08:23.8098024-07:00",
-            "Version": "7.1.0",
             "Info": "",
+            "Version": "7.1.0",
+            "Source": "main",
             "Name": "neofetch",
-            "Source": "main"
+            "Updated": "2022-08-24T17:08:23.8098024-07:00"
         },
         {
-            "Updated": "2022-10-27T12:51:03.8948302-07:00",
+            "Info": "",
             "Version": "1.11.1",
-            "Info": "",
+            "Source": "main",
             "Name": "ninja",
-            "Source": "main"
+            "Updated": "2022-10-27T12:51:03.8948302-07:00"
         },
         {
-            "Updated": "2023-07-14T12:05:22.154032-07:00",
+            "Info": "",
             "Version": "20.4.0",
-            "Info": "",
+            "Source": "anderlli0053_DEV-tools",
             "Name": "nodejs",
-            "Source": "anderlli0053_DEV-tools"
+            "Updated": "2023-07-14T12:05:22.154032-07:00"
         },
         {
-            "Updated": "2023-07-31T17:37:32.9096671-07:00",
+            "Info": "",
             "Version": "2.0.49",
-            "Info": "",
+            "Source": "anderlli0053_DEV-tools",
             "Name": "notion",
-            "Source": "anderlli0053_DEV-tools"
+            "Updated": "2023-07-31T17:37:32.9096671-07:00"
         },
         {
-            "Updated": "2023-07-19T10:51:32.128751-07:00",
+            "Info": "",
             "Version": "29.1",
-            "Info": "",
+            "Source": "anderlli0053_DEV-tools",
             "Name": "obs",
-            "Source": "anderlli0053_DEV-tools"
+            "Updated": "2023-07-19T10:51:32.128751-07:00"
         },
         {
-            "Updated": "2023-07-16T14:35:33.452614-07:00",
+            "Info": "",
             "Version": "20.0.1-9",
-            "Info": "",
+            "Source": "java",
             "Name": "openjdk",
-            "Source": "java"
+            "Updated": "2023-07-16T14:35:33.452614-07:00"
         },
         {
-            "Updated": "2023-07-16T14:42:18.5638919-07:00",
+            "Info": "",
             "Version": "17.0.2-8",
-            "Info": "",
+            "Source": "java",
             "Name": "openjdk17",
-            "Source": "java"
+            "Updated": "2023-07-16T14:42:18.5638919-07:00"
         },
         {
-            "Updated": "2023-07-16T14:42:10.06234-07:00",
+            "Info": "",
             "Version": "8u342-b07",
-            "Info": "",
+            "Source": "java",
             "Name": "openjdk8-redhat",
-            "Source": "java"
+            "Updated": "2023-07-16T14:42:10.06234-07:00"
         },
         {
-            "Updated": "2022-10-27T12:18:58.2965027-07:00",
+            "Info": "",
             "Version": "0.7.7",
-            "Info": "",
+            "Source": "main",
             "Name": "optipng",
-            "Source": "main"
+            "Updated": "2022-10-27T12:18:58.2965027-07:00"
         },
         {
-            "Updated": "2022-09-18T14:16:06.4500439-07:00",
+            "Info": "",
             "Version": "8.1.10",
-            "Info": "",
+            "Source": "main",
             "Name": "php",
-            "Source": "main"
+            "Updated": "2022-09-18T14:16:06.4500439-07:00"
         },
         {
-            "Updated": "2023-07-15T13:46:19.1577711-07:00",
+            "Info": "",
             "Version": "23.4",
-            "Info": "",
+            "Source": "anderlli0053_DEV-tools",
             "Name": "protoc",
-            "Source": "anderlli0053_DEV-tools"
+            "Updated": "2023-07-15T13:46:19.1577711-07:00"
         },
         {
-            "Updated": "2022-10-27T12:54:00.3207767-07:00",
+            "Info": "",
             "Version": "7.1.0",
-            "Info": "",
+            "Source": "main",
             "Name": "qemu",
-            "Source": "main"
+            "Updated": "2022-10-27T12:54:00.3207767-07:00"
         },
         {
-            "Updated": "2023-07-16T14:24:27.9374105-07:00",
+            "Info": "",
             "Version": "1.70.0",
-            "Info": "",
+            "Source": "anderlli0053_DEV-tools",
             "Name": "rust",
-            "Source": "anderlli0053_DEV-tools"
+            "Updated": "2023-07-16T14:24:27.9374105-07:00"
         },
         {
-            "Updated": "2023-07-13T14:54:52.3033989-07:00",
+            "Info": "",
             "Version": "1.26.0",
-            "Info": "",
+            "Source": "anderlli0053_DEV-tools",
             "Name": "rustup",
-            "Source": "anderlli0053_DEV-tools"
+            "Updated": "2023-07-13T14:54:52.3033989-07:00"
         },
         {
-            "Updated": "2022-10-27T13:26:59.2478032-07:00",
+            "Info": "",
             "Version": "2.24.1",
-            "Info": "",
+            "Source": "extras",
             "Name": "sdl2",
-            "Source": "extras"
+            "Updated": "2022-10-27T13:26:59.2478032-07:00"
         },
         {
-            "Updated": "2022-10-27T12:55:34.8796656-07:00",
+            "Info": "",
             "Version": "0.2020.01.26",
-            "Info": "",
+            "Source": "main",
             "Name": "sudo",
-            "Source": "main"
+            "Updated": "2022-10-27T12:55:34.8796656-07:00"
         },
         {
-            "Updated": "2022-11-25T12:46:45.0986666-08:00",
-            "Version": null,
             "Info": "Install failed",
+            "Version": null,
+            "Source": null,
             "Name": "tor",
-            "Source": null
+            "Updated": "2022-11-25T12:46:45.0986666-08:00"
         },
         {
-            "Updated": "2023-07-16T08:48:25.3548806-07:00",
+            "Info": "",
             "Version": "1.8.1",
-            "Info": "",
+            "Source": "extras",
             "Name": "turbowarp",
-            "Source": "extras"
+            "Updated": "2023-07-16T08:48:25.3548806-07:00"
         },
         {
-            "Updated": "2023-04-04T08:40:11.7499565-07:00",
-            "Version": "6.00",
             "Info": "",
-            "Name": "unzip",
-            "Source": "anderlli0053_DEV-tools"
+            "Version": "3.1.2",
+            "Source": "anderlli0053_DEV-tools",
+            "Name": "unity-hub",
+            "Updated": "2023-08-03T10:07:45.7773465-07:00"
         },
         {
-            "Updated": "2023-07-16T08:17:11.6154683-07:00",
-            "Version": null,
+            "Info": "",
+            "Version": "6.00",
+            "Source": "anderlli0053_DEV-tools",
+            "Name": "unzip",
+            "Updated": "2023-04-04T08:40:11.7499565-07:00"
+        },
+        {
             "Info": "Install failed",
+            "Version": null,
+            "Source": null,
             "Name": "visual-studio-2022-nativedesktop",
-            "Source": null
+            "Updated": "2023-07-16T08:17:11.6154683-07:00"
         }
     ],
     "buckets": [
@@ -335,11 +342,11 @@
             "Name": "anderlli0053_DEV-tools",
             "Source": "https://github.com/anderlli0053/DEV-tools",
             "Updated": {
-                "value": "2023-07-30T12:20:15-07:00",
+                "value": "2023-08-02T08:28:02-07:00",
                 "DisplayHint": 2,
-                "DateTime": "Sunday, July 30, 2023 12:20:15 PM"
+                "DateTime": "Wednesday, August 2, 2023 8:28:02 AM"
             },
-            "Manifests": 66311
+            "Manifests": 66134
         },
         {
             "Name": "clang",
@@ -365,9 +372,9 @@
             "Name": "games",
             "Source": "https://github.com/Calinou/scoop-games",
             "Updated": {
-                "value": "2023-07-31T13:24:13-07:00",
+                "value": "2023-08-03T09:27:11-07:00",
                 "DisplayHint": 2,
-                "DateTime": "Monday, July 31, 2023 1:24:13 PM"
+                "DateTime": "Thursday, August 3, 2023 9:27:11 AM"
             },
             "Manifests": 291
         },
@@ -385,9 +392,9 @@
             "Name": "java",
             "Source": "https://github.com/ScoopInstaller/Java",
             "Updated": {
-                "value": "2023-07-27T18:09:07-07:00",
+                "value": "2023-08-03T09:17:12-07:00",
                 "DisplayHint": 2,
-                "DateTime": "Thursday, July 27, 2023 6:09:07 PM"
+                "DateTime": "Thursday, August 3, 2023 9:17:12 AM"
             },
             "Manifests": 253
         },
@@ -395,19 +402,19 @@
             "Name": "lzwme_scoop-proxy-cn",
             "Source": "https://github.com/lzwme/scoop-proxy-cn",
             "Updated": {
-                "value": "2023-07-30T18:40:17-07:00",
+                "value": "2023-08-02T18:36:49-07:00",
                 "DisplayHint": 2,
-                "DateTime": "Sunday, July 30, 2023 6:40:17 PM"
+                "DateTime": "Wednesday, August 2, 2023 6:36:49 PM"
             },
-            "Manifests": 65506
+            "Manifests": 65622
         },
         {
             "Name": "main",
             "Source": "https://github.com/ScoopInstaller/Main",
             "Updated": {
-                "value": "2023-07-31T13:24:30-07:00",
+                "value": "2023-08-03T09:26:03-07:00",
                 "DisplayHint": 2,
-                "DateTime": "Monday, July 31, 2023 1:24:30 PM"
+                "DateTime": "Thursday, August 3, 2023 9:26:03 AM"
             },
             "Manifests": 1215
         },
@@ -415,9 +422,9 @@
             "Name": "php",
             "Source": "https://github.com/ScoopInstaller/PHP",
             "Updated": {
-                "value": "2023-07-05T06:05:14-07:00",
+                "value": "2023-08-02T05:56:19-07:00",
                 "DisplayHint": 2,
-                "DateTime": "Wednesday, July 5, 2023 6:05:14 AM"
+                "DateTime": "Wednesday, August 2, 2023 5:56:19 AM"
             },
             "Manifests": 387
         },
@@ -425,11 +432,11 @@
             "Name": "versions",
             "Source": "https://github.com/ScoopInstaller/Versions",
             "Updated": {
-                "value": "2023-07-31T13:27:47-07:00",
+                "value": "2023-08-03T09:32:31-07:00",
                 "DisplayHint": 2,
-                "DateTime": "Monday, July 31, 2023 1:27:47 PM"
+                "DateTime": "Thursday, August 3, 2023 9:32:31 AM"
             },
-            "Manifests": 425
+            "Manifests": 427
         }
     ]
 }
